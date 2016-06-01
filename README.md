@@ -10,4 +10,4 @@ a key factor.
 My aim was to retrieve as much data as I could on sales of second hand cars online and analyze whether
 some theories about how aspects like, age fuel type and mileage etc affect price but also how these
 factors affect each other. For instance; do diesel cars on average have more mileage, do certain brands
-still carry a price premium, do people from Cork really buy/sell more red cars than other counties. T
+still carry a price premium, do people from Cork really buy/sell more red cars than other counties.
